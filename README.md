@@ -14,3 +14,12 @@
 - Requirement Documentation -> Document the requirement in a detailed and structured format.
 - Requirement Analysis and Modeling -> Analyzes and priorotise the requirementi i.e by creating models.
 - Requirement Validation -> Define ecceptance criteria and traceability.
+
+# Types of Requirements.
+
+ ## Functional Requirements
+ - Describes what the system should do like user authentication,property search , booking system and user registration.
+ ## Examples of Functional Requirement
+- **Search Property**:users should be able to search properties based in criteria such as loaction,price and availabilty.
+- **Property Listing**:Display product with essential details and images.
+- **User Authentication**:Secure login and registration process for users.
