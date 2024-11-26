@@ -23,3 +23,10 @@
 - **Search Property**:users should be able to search properties based in criteria such as loaction,price and availabilty.
 - **Property Listing**:Display product with essential details and images.
 - **User Authentication**:Secure login and registration process for users.
+
+ ## Non-Functional Requirement
+ - Descirbe how the system should perform like perfomance,userbility, relaibility, security and also scalabilty.
+ ## Examples of Non-Functional Requirement
+ - **Pefomance**:The system should load pages within 2 seconds and handle upto 1000 cocurent users.
+ - **Security**:Ensure data encryption and secure login and protect against common vulnerabilities.
+ - **Userbility**:System should have intuitive UI/UX making it easier for users to navigate and manage tasks.
