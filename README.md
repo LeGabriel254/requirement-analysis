@@ -30,3 +30,11 @@
  - **Pefomance**:The system should load pages within 2 seconds and handle upto 1000 cocurent users.
  - **Security**:Ensure data encryption and secure login and protect against common vulnerabilities.
  - **Userbility**:System should have intuitive UI/UX making it easier for users to navigate and manage tasks.
+
+ # Acceptance Criteria.
+- Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+**Importance of acceptance criteria.**
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
