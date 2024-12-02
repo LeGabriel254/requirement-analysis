@@ -17,6 +17,7 @@
 
 # Types of Requirements.
 
+
  ## Functional Requirements
  - Describes what the system should do like user authentication,property search , booking system and user registration.
  ## Examples of Functional Requirement
